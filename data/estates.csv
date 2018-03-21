@@ -1,0 +1,135 @@
+local,preco,perfis_imoveis,area,mais_de_1_dormitorio,mais_de_1_banheiro,mais_de_1_vaga_garagem,renda,anos_estudo,mortalidade_infantil,taxa_crescimento,taxa_mortalidade,densidade_populacional,populacao,numero_domicilios,taxa_urbanizacao
+Lajeado,122000,baixo_valor,41,nao,nao,nao,775,5.4,15.07,2.24,67.78,NA,171901,31411,NA
+Marsilac,126000,baixo_valor,42,nao,nao,nao,988,NA,NA,NA,78.08,45.83,9165,3564,43
+Itaim Paulista,138000,baixo_valor,43,nao,nao,nao,814,5.7,14.06,1.71,64.01,18928.08,227137,NA,100
+Guaianases,143800,baixo_valor,44,nao,nao,nao,820,5.9,13.9,1.16,88.32,11982.44,103049,21809,NA
+Vila Jacuí,152000,baixo_valor,45,nao,nao,nao,1118,6.1,14.24,2.26,48.87,20102.08,154786,27778,100
+Jardim Helena,152000,baixo_valor,NA,nao,nao,nao,NA,5.6,17.14,0.94,46.87,15848.35,144220,33796,100
+Cidade Tiradentes,152000,baixo_valor,NA,nao,nao,NA,NA,6,16.55,4.92,55.72,15307.07,229606,40411,36.3
+Jardim Ângela,152000,baixo_valor,53,nao,nao,nao,912,5.4,19.43,2.13,81.15,NA,266682,34095,85.19
+Parelheiros,152000,baixo_valor,NA,nao,nao,NA,901,NA,15.64,4.38,87.65,791.02,121422,5345,42.81
+Francisco Morato,152000,baixo_valor,60,nao,nao,nao,1016.8,5.3,24.04,3.98,49.43,3459.27,155667,34024,99.89
+Ferraz de Vasconcelos,154000,baixo_valor,65,nao,NA,nao,1188.88,6.1,20.53,3.84,59.81,6597.64,164941,36608,99.28
+Cidade Ademar,156000,baixo_valor,66,NA,nao,nao,1396,6.3,17.74,0.14,NA,20391,244692,NA,100
+Sapopemba,156000,baixo_valor,66,nao,nao,nao,1087,6.1,NA,0.42,60.19,21248.67,286857,65796,100
+Vila Curuçá,156000,baixo_valor,66,nao,nao,nao,839,5.8,14.99,0.96,42.49,15669.48,151994,34548,NA
+São Rafael,156000,baixo_valor,73,nao,nao,nao,922,6,15.26,2.21,68.31,10310.91,136104,25566,NA
+São Miguel,156000,baixo_valor,73,nao,nao,nao,1023,6.4,NA,-0.4,62.3,12783.2,95874,NA,100
+Itaquaquecetuba,156000,baixo_valor,NA,nao,nao,nao,NA,5.7,19.02,4.65,62.96,3924.69,325749,68806,100
+Grajaú,156000,baixo_valor,77,nao,nao,nao,936,5.5,15.86,3.82,85.59,4191.07,385578,7582,88.41
+Pedreira,156000,baixo_valor,79,nao,nao,nao,1151,5.8,NA,2.68,NA,7548.07,141149,27327,NA
+Capão Redondo,156000,baixo_valor,NA,NA,nao,NA,1246,6.1,12.85,1.37,67.08,18658.24,253752,51542,100
+Brasilândia,156000,baixo_valor,81,nao,nao,NA,975,5.8,14.75,1.26,60.05,12361.71,259596,59302,96.1
+Iguatemi,157000,baixo_valor,82,nao,NA,nao,866,5.4,12.81,3.74,60.11,5985.41,117314,22056,40.63
+Cachoeirinha,160400,baixo_valor,84,nao,nao,NA,1347,6.2,17.24,NA,65.94,11504.44,153009,NA,97.71
+Diadema,160400,baixo_valor,86,nao,nao,nao,NA,6.4,16.74,1.33,74.14,11745.25,375848,98172,100
+Biritiba Mirim,160400,baixo_valor,86,nao,nao,nao,1285.56,5.5,NA,3.19,14.81,67.32,27870,6371,85.83
+Campo Limpo,160400,baixo_valor,86,nao,nao,NA,1218,NA,15.26,1.1,47.04,NA,NA,NA,100
+Juquitiba,160400,baixo_valor,86,nao,nao,nao,1205.98,5.1,10.79,2.94,59.06,53.87,29630,6750,68.8
+Itaquera,160400,baixo_valor,86,nao,nao,nao,1182,6.4,13.94,0.77,51.43,14219.04,207598,46814,100
+Jardim São Luís,160400,baixo_valor,87,nao,nao,nao,1224,6.2,12.45,0.91,78.19,10028.02,247692,54761,100
+Franco da Rocha,160400,baixo_valor,87,nao,nao,nao,1281.56,5.9,NA,2.33,47.58,827.09,118274,26226,98.53
+Embu,160400,baixo_valor,88,nao,nao,nao,1326.56,5.9,16.44,2.9,70.91,3414.19,232165,52940,100
+Ermelino Matarazzo,162000,medio_valor,90,nao,nao,nao,1058,6.3,15.87,0.57,36.82,12551.15,109195,27464,100
+Vila Medeiros,162000,medio_valor,92,nao,nao,nao,1405,NA,15.28,-1,51.25,17552.99,135158,39323,100
+Jaraguá,162000,medio_valor,92,nao,nao,nao,1079,6.2,16.38,3.1,50.84,5949.02,164193,28678,65.88
+Suzano,162000,medio_valor,92,nao,nao,NA,1503.56,6.4,20.86,3.49,46.31,1340.72,261441,59619,97.17
+São Mateus,162000,medio_valor,93,nao,nao,nao,1229,6.5,11.23,0.2,65.46,NA,156060,27150,100
+Itapecerica da Serra,162000,medio_valor,94,nao,nao,nao,1440.28,5.9,11.65,4.69,80.29,1140.96,155171,33694,99.11
+Itapevi,162000,medio_valor,101,nao,nao,nao,1204.88,5.8,15.32,3.66,55.49,NA,186808,NA,100
+Anhanguera,166000,medio_valor,96,nao,nao,nao,NA,5.8,16.55,8.51,53.48,1583.63,52735,7167,50.46
+Artur Alvim,170000,medio_valor,97,nao,nao,nao,1248,7,16.55,-0.46,33.7,16553.18,109251,29842,100
+Jaçanã,174000,medio_valor,101,nao,nao,nao,NA,NA,16.38,0.16,53.11,NA,92377,NA,80.22
+Perus,175800,medio_valor,102,nao,nao,nao,1006,5.8,14,2.91,39.07,3304.52,78978,14527,69.6
+Santa Isabel,198000,medio_valor,102,nao,nao,nao,1308.26,5.7,24.81,1.37,15.38,127.79,46133,11786,76.27
+Ponte Rasa,199800,medio_valor,103,nao,nao,nao,1264,NA,12.09,-0.33,40.11,15137.03,96877,26402,NA
+Cidade Lider,202000,medio_valor,103,nao,nao,sim,1151,6.4,14.58,1.09,37.32,NA,121860,NA,100
+Jandira,202400,alto_valor,104,nao,nao,nao,1551.44,NA,16.43,3.72,54.87,4811.32,105849,24424,100
+Sé,206000,alto_valor,104,nao,nao,nao,1366,7.1,18.07,NA,58.62,8717.62,18307,15000,100
+Salesópolis,208000,alto_valor,104,nao,sim,sim,1182.02,5.4,NA,NA,6.54,37.35,15613,3938,63.32
+Rio Grande da Serra,211800,alto_valor,NA,nao,nao,sim,1180.08,6,18.18,2.09,20.31,1296.84,40202,9722,100
+Cidade Dutra,212000,alto_valor,105,nao,nao,sim,1371,6.5,12.51,0.67,69.68,6703.62,196416,46119,99.89
+Carapicuíba,213800,alto_valor,105,nao,nao,sim,1459.44,6.3,14.53,1.87,49.51,10287.56,370352,90840,100
+Parque do Carmo,216000,alto_valor,106,nao,nao,sim,1271,6.1,10.26,NA,66.9,NA,66345,13883,88.42
+Raposo Tavares,219800,alto_valor,106,nao,NA,sim,1296,6.4,NA,0.45,34.62,7365.79,92809,21968,100
+Cajamar,222000,alto_valor,106,nao,sim,sim,NA,5.9,20.13,NA,33.64,434.12,58606,13714,95.35
+Taboão da Serra,226000,alto_valor,106,nao,sim,sim,1698.16,NA,11.82,NA,70.18,10782.6,215652,52359,100
+José Bonifácio,230000,alto_valor,106,nao,sim,sim,1075,6.8,11.64,-0.01,48.56,7590.07,107020,26123,88.92
+Mauá,231800,alto_valor,106,nao,sim,NA,NA,6.4,NA,1.89,46.13,NA,390941,98969,100
+Cangaíba,232000,alto_valor,107,sim,nao,sim,1147,6.8,19.44,1.06,25.4,8947.38,143158,34362,100
+Embu-Guaçu,244000,alto_valor,108,sim,nao,sim,1399.46,6.2,9.43,NA,71.23,NA,67458,14367,98.38
+Brás,248000,alto_valor,109,sim,nao,sim,1942,7,NA,NA,89.22,6567.43,22986,8135,100
+Guararema,122000,baixo_valor,NA,nao,sim,nao,1637.94,6,14.96,NA,56.07,90.24,23643,NA,81.91
+Poá,126000,baixo_valor,42,NA,sim,nao,1507.06,6.9,14.39,1.9,42.51,6062.59,103064,24959,98.88
+Sacomã,138000,baixo_valor,43,nao,nao,nao,1608,6.8,10.91,0.32,49.46,16276.62,231128,28024,NA
+Vila Maria,143800,baixo_valor,44,nao,nao,nao,NA,6.6,14.27,-0.78,NA,9356.86,110411,31861,100
+Aricanduva,152000,baixo_valor,45,nao,nao,nao,1311,6.8,13.43,-0.13,23.28,14296.82,94359,24229,100
+República,152000,baixo_valor,50,nao,nao,nao,2614,8.6,23.84,-1.62,54.9,19469.13,44779,13510,100
+Pirituba,152000,baixo_valor,52,nao,NA,NA,1417,7,NA,0.2,39.32,9532.98,NA,40225,99.98
+Osasco,152000,baixo_valor,53,nao,sim,nao,1868.52,7,16.77,1.29,60.39,10088.38,686010,181000,100
+São Lucas,152000,baixo_valor,57,nao,sim,nao,NA,7,12.87,-0.88,33.85,13600.61,134646,41321,100
+Aruja,152000,baixo_valor,60,nao,sim,nao,1924.76,6.4,20.1,4.4,31.31,729.35,70018,15184,96.29
+Tremembé,154000,baixo_valor,65,nao,nao,NA,1746,6.6,17.84,1.75,45.29,3111.05,175152,36575,60.07
+Limão,156000,baixo_valor,66,nao,nao,NA,2266,7.1,NA,-0.95,57.61,12550,79065,23112,100
+Freguesia do Ó,156000,baixo_valor,66,nao,sim,nao,1538,7.1,14.12,-0.38,28.58,13603.9,142841,39243,100
+Mairiporã,156000,baixo_valor,66,nao,nao,nao,2070.72,6.3,19.89,3.84,26.85,NA,69615,16121,82.4
+Pirapora do Bom Jesus,156000,baixo_valor,73,nao,sim,nao,1196.6,NA,7.94,4.41,7.12,NA,14667,3250,100
+Jabaquara,176000,medio_valor,73,sim,nao,nao,1905,7.1,13.36,-0.01,37.82,15182.55,214074,59589,100
+Pari,156000,baixo_valor,74,nao,sim,nao,1635,7.6,17.96,-2.83,43.94,NA,13264,4668,100
+Penha,196000,medio_valor,77,sim,nao,nao,1896,7.4,17.37,NA,18.76,10793.54,121967,NA,100
+Vila Matilde,156000,baixo_valor,NA,nao,sim,nao,1530,7.4,NA,-0.42,15.72,NA,101302,27840,100
+Bom Retiro,156000,baixo_valor,79,nao,sim,nao,1710,7.7,14.63,-2.44,44.38,NA,24172,7900,100
+Rio Pequeno,156000,baixo_valor,81,nao,sim,nao,1840,6.8,12.11,0.37,23.9,11684.12,113336,26099,100
+São Domingos,157000,baixo_valor,82,nao,sim,nao,2047,6.8,15.97,0.95,NA,8591.3,85913,40878,97.15
+Cotia,160400,baixo_valor,84,nao,sim,nao,2404.22,6.6,15.02,3.28,51.95,520.02,169006,38371,100
+Vila Prudente,160400,baixo_valor,86,nao,sim,nao,1755,7.2,NA,-1.06,35.34,9895.05,97961,29326,NA
+Casa Verde,160400,baixo_valor,86,nao,sim,nao,1847,7.4,9.36,-1.27,42.17,11208.17,79578,25337,100
+Guarulhos,160400,baixo_valor,86,nao,nao,nao,1764.1,NA,15.8,2.84,54.15,3582.34,1196502,NA,98.04
+Mogi das Cruzes,160400,baixo_valor,86,nao,NA,nao,2010.02,NA,17.67,1.85,NA,492.06,354775,89020,91.91
+Jaguara,160400,baixo_valor,NA,nao,nao,nao,1590,7.1,9.46,-1.31,36.34,5311.3,24432,7258,NA
+Vargem Grande Paulista,160400,baixo_valor,87,nao,nao,nao,1679.1,6.1,11.87,6.12,18.04,1083.42,NA,8464,100
+Ipiranga,160400,baixo_valor,87,nao,sim,nao,NA,7.6,13.97,-0.19,34.56,9347.24,98146,28140,100
+São Lourenço da Serra,160400,baixo_valor,88,nao,sim,nao,1252.58,5.4,NA,4.88,NA,76.54,14695,3109,90.18
+Água Rasa,162000,medio_valor,90,nao,sim,nao,1961,7.6,16.06,-0.98,16.76,11980.87,82668,25936,100
+Vila Formosa,162000,medio_valor,92,nao,sim,nao,NA,7.1,NA,-0.31,30.08,12533.65,92749,25932,100
+Barueri,162000,medio_valor,92,nao,sim,nao,2508.08,6.6,8.39,4.21,56.67,4009.03,244551,55383,100
+Belém,162000,medio_valor,92,nao,sim,nao,1813,7.7,14.93,-1.87,29.3,6136.67,36820,13070,100
+Caieiras,162000,medio_valor,93,nao,sim,nao,1618.4,6.5,NA,5.05,NA,829.34,86251,19039,96.77
+Ribeirão Pires,162000,medio_valor,94,nao,NA,nao,NA,7.1,10.85,2.01,22.58,1055.42,112930,28241,100
+Cursino,202000,medio_valor,101,sim,NA,nao,2194,7.6,NA,-0.81,37.09,NA,98899,29764,100
+Carrão,166000,medio_valor,NA,nao,nao,nao,1923,7.4,11.64,-1.05,13.18,10006.27,75047,22892,100
+Jaguaré,170000,medio_valor,97,nao,sim,nao,2124,NA,11.98,-0.31,18.99,6359.09,41970,9887,100
+Vila Andrade,174000,medio_valor,101,nao,NA,nao,3357,6.5,NA,3.86,41.38,8281.07,85295,14533,100
+Santa Cecília,175800,medio_valor,102,nao,nao,nao,2775,8.2,17.08,-1.59,20.59,17148.97,66881,37374,100
+Cambuci,198000,medio_valor,102,sim,sim,nao,1958,7.8,9.77,NA,25.88,6787.69,26472,NA,100
+Mandaqui,199800,medio_valor,103,sim,sim,nao,1978,7.6,11.56,-0.02,NA,7866.34,103049,28466,100
+Santo André,202000,medio_valor,103,sim,sim,sim,2402.26,7.6,14.87,NA,NA,3674.09,665011,185370,100
+Bela Vista,202400,alto_valor,104,sim,sim,nao,2400,8.4,NA,NA,13.09,23218.08,60367,25679,100
+Liberdade,206000,alto_valor,104,sim,sim,NA,2106,8.3,NA,-1.75,33.99,15618.65,57789,21164,100
+Socorro,208000,alto_valor,104,sim,sim,sim,1987,8,10.07,-0.96,39.44,2918.6,37650,NA,100
+Tucuruvi,211800,alto_valor,NA,NA,sim,sim,2381,8,12.62,-1.1,8.31,10575.89,NA,29293,100
+Vila Guilherme,212000,alto_valor,NA,sim,sim,sim,2202,7.4,7.13,-1.75,12.62,6764.49,46675,15575,100
+Vila Sônia,213800,alto_valor,105,sim,sim,sim,2970,7.4,11.98,0.13,30.78,8869.7,87810,21690,100
+Barra Funda,216000,alto_valor,106,sim,NA,NA,2359,8,13.61,-1.75,40.56,2161.79,12106,4573,100
+Campo Grande,219800,alto_valor,106,sim,sim,NA,NA,8.2,15.55,0.54,24.78,7121.83,93296,NA,100
+São Bernardo do Campo,222000,alto_valor,106,sim,sim,sim,2534.14,7.6,12.82,1.84,38.19,1836.34,754734,197847,98.34
+Santana,226000,alto_valor,106,sim,sim,sim,2329,8.3,12.69,-0.96,18.14,9527.78,120050,18886,100
+Tatuapé,230000,alto_valor,106,sim,sim,sim,NA,8.2,7.83,-0.22,20.27,9599.63,78717,24299,100
+São Caetano do Sul,231800,alto_valor,106,sim,sim,sim,3423.78,8.6,11.18,-0.38,25.25,11509.08,138109,43393,100
+Mooca,232000,alto_valor,107,sim,sim,sim,2466,8.2,NA,-1.18,27.79,7848.96,NA,20107,100
+Vila Leopoldina,244000,alto_valor,108,sim,sim,sim,2908,7.7,12.77,NA,NA,3734.31,26887,7731,100
+Lapa,248000,alto_valor,109,NA,NA,sim,2462,8.4,10.03,-1.37,13.82,5705.3,NA,NA,100
+Butantã,322000,alto_valor,141,sim,sim,sim,2311,8.4,6.85,-0.95,NA,4058.96,50737,15398,100
+Saúde,326000,alto_valor,142,sim,sim,sim,2782,8.3,5.18,-0.5,NA,13011.91,115806,37652,100
+Vila Mariana,338000,alto_valor,158,sim,sim,sim,3312,8.6,NA,-0.76,10.74,13960.93,120064,42027,100
+Santana de Parnaíba,264000,alto_valor,144,sim,sim,sim,5167.14,6.9,7.23,5.82,40.86,529.74,93234,18598,100
+Campo Belo,352000,alto_valor,184,sim,sim,sim,3850,8.6,11.84,-1.37,32.78,7177.5,63162,20373,100
+Morumbi,516000,alto_valor,215,sim,nao,sim,5146,7.4,NA,-1.3,66.03,2883.77,32875,10012,100
+Consolação,718000,alto_valor,210,sim,nao,sim,3117,8.8,3.72,-1.68,11.55,13796.22,51046,22504,100
+Perdizes,552000,alto_valor,236,sim,nao,sim,3456,8.7,5.67,-0.44,6.92,16513.61,100733,34077,100
+Pinheiros,590000,alto_valor,NA,sim,nao,sim,NA,8.3,11.7,-1.84,15.06,7327.88,58623,24044,100
+Itaim Bibi,590000,alto_valor,214,sim,nao,NA,3278,8.8,7.85,-2.23,11.79,7538.38,74630,31168,100
+Santo Amaro,390000,alto_valor,158,sim,NA,sim,3898,9.2,9.82,-1.84,24.38,NA,56336,19670,100
+Jardim Paulista,738000,alto_valor,314,sim,nao,nao,4318,8.7,8.45,-1.75,7.54,12808.69,78133,NA,100
+Alto de Pinheiros,624000,alto_valor,298,NA,nao,nao,4180,8.4,2.72,-1.15,6.97,5520.65,42509,12886,100
+Moema,698000,alto_valor,NA,sim,nao,nao,4504,8.6,NA,-0.84,2.87,7665.33,68988,26273,100

@@ -1,0 +1,3 @@
+data = read.csv2(file ='data/estates.csv', quote = ',');
+
+   
